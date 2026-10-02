@@ -171,4 +171,5 @@ El repositorio incluye:
 - instrucciones reproducibles con `uv`.
 
 No se modificó `data/payments.jsonl`.
+
 # tarea3Streaming
